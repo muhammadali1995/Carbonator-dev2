@@ -17,13 +17,9 @@ pubspec.lock
 !.devcontainer/recommended-devcontainer.json
 !.devcontainer/recommended-Dockerfile
 .settings/
-.vscode/launch.json
-.vscode/settings.json
-.vscode/tasks.json
 *.swo
 *.swp
 modules/.settings
-modules/.vscode
 .vimrc
 .nvimrc
 
@@ -58,3 +54,7 @@ baseline.json
 # Ignore cache created with the Angular CLI.
 .angular/
 .vercel
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
